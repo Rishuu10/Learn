@@ -1,0 +1,7 @@
+.color{
+	color:green;
+}
+.selected{
+	text-decoration-line:underline;
+	opacity:5px;
+}
